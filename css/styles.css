@@ -1,0 +1,17 @@
+.header nav ul{
+  list-style-type: none;
+}
+.header nav ul li{
+  float: left;
+}
+.header nav ul li a{
+  display: block;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.header nav {
+  margin-left: 70%;
+}
+.aboutMe{
+  clear: both;
+}
