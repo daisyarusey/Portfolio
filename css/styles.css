@@ -15,3 +15,8 @@
 .aboutMe{
   clear: both;
 }
+.image img{
+  border-radius: 30px;
+  height: 200px;
+  width: 200px;
+}
