@@ -1,26 +1,57 @@
+body{
+  margin: 0;
+  background-color:#00FFFF;
+  background-repeat: none;
+  background-size: cover;
+}
+#lp{
+  background-image: url(/home/moringa/Documents/IPs/portfolio/images/lpbackground.png);
+  height: 550px;
+  background-repeat: none;
+  background-size: cover;
+}
 .header nav ul{
   list-style-type: none;
 }
 .header nav ul li{
   float: left;
 }
+.header{
+  display: flex;
+  background-color: #000011;
+}
+.header h2{
+  color: #00FFFF;
+  padding-left: 8px;
+}
 .header nav ul li a{
   display: block;
   padding: 0px 15px;
   text-decoration: none;
+  font-size: 20px;
+  color: #00FFFF;
+  font-weight: bold;
 }
 .header nav {
-  margin-left: 70%;
+  margin-left: 50%;
 }
 .aboutMe{
   clear: both;
+  width: 36%;
+  padding-left:8px; 
+}
+.image{
+  width: 33%;
 }
 .image img{
-  border-radius: 30px;
-  height: 200px;
-  width: 200px;
+  border-radius: 50%;
+  height: 300px;
+  width: 300px;
 }
 .name{
-  clear:both;
   text-align: center;
+}
+#flex{
+  display: flex;
+  width: 100%:
 }
