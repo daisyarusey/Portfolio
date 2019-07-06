@@ -1,5 +1,5 @@
-#Portfolio
-####This is Daisy's portfolio, it describes who she is what she does. It also has some projects she has done
+# Portfolio
+#### This is Daisy's portfolio, it describes who she is what she does. It also has some projects she has done
 #### By Daisy Arusey
 ### Installation Requirements
 * Laptop,computer or any smartphone.
