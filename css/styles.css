@@ -6,7 +6,6 @@ body{
 }
 #lp{
   background-image: url(/home/moringa/Documents/IPs/portfolio/images/lpbackground.png);
-  height: 550px;
   background-repeat: none;
   background-size: cover;
 }
@@ -34,9 +33,9 @@ body{
 }
 .header nav ul li a{
   display: block;
-  padding: 0px 15px;
+  padding: 5px 20px;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 23px;
   color: #00FFFF;
   font-weight: bold;
 }
@@ -62,4 +61,7 @@ body{
 #flex{
   display: flex;
   width: 100%:
+}
+.projects{
+  text-align: center;
 }
