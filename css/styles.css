@@ -10,8 +10,10 @@ body{
   background-repeat: none;
   background-size: cover;
 }
-#lp h3, #lp h4{
+#lpcontent{
   text-align: center;
+  padding: 150px;
+  font-size: 50px;
 }
 .header nav ul{
   list-style-type: none;
