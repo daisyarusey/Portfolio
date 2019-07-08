@@ -5,7 +5,7 @@
 * Laptop,computer or any smartphone.
 * Click on the website link below.
 ### Link to the Website
-#### https://daisyarusey.github.io/portfolio/
+#### https://daisyarusey.github.io/Portfolio/
 ### License
 *This project is licensed under MIT licensing*
 Copyright (c) 2019 **Daisy**
