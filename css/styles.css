@@ -27,6 +27,8 @@ body{
 .header{
   display: flex;
   background-color: #000011;
+  position: sticky;
+  top: 0;
 }
 .header h2{
   color: #cccccc;
